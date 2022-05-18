@@ -12,7 +12,7 @@ public:
         end = it2-nums.begin();
        
         vector<int> ans; 
-        if (nums.size() == 0)
+        if ((nums.size() == 0) || (start == end))  //testcase: [1] target=0
         {
             ans.push_back(-1);
             ans.push_back(-1);
