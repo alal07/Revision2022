@@ -16,7 +16,9 @@
  ### I Badly need a Plan 
  
  - Helps do Reality Check of actual progress made Vs planned.. and 
-   course correct(align myself back to the plan) or revise plan(if diversion from plan was a value add thus progressively elaborating the plan 🧵 Added the emoji of thread: to highlight that when we are preparing for Google Interview.. although we want it to be the only pursuit of our mind but reality is we execute or plan or aspire or imagine or dream.. about more than 1 pursuits and brain has multiple threads working parallely on each of these.. which are spawned on need basis and context switched to something next due to some stimulus in our environment and the environment we are in is not in our full control)
+   course correct(align myself back to the plan) or revise plan(if diversion from plan was a value add thus progressively elaborating the plan 🧵 
+   ###### Emoji Trivia 
+   Added the emoji of thread: to highlight that when we are preparing for Google Interview.. although we want it to be the only pursuit of our mind but reality is we execute or plan or aspire or imagine or dream.. about more than 1 pursuits and brain has multiple threads working parallely on each of these.. which are spawned on need basis and context switched to something next due to some stimulus in our environment and the environment we are in is not in our full control.. after all we play multiple roles in a day and each role we play has its own set of these triggers(planning, execution, aspirations, expectations, imaginations, dreams )
  - Recently came to know that writing it down makes it a commitment rather than just one of 100's everyday aspirations that I tend to forget within minutes
  
  
