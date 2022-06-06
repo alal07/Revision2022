@@ -8,8 +8,10 @@
                The digital platforms, each has its limitations.. and features needed locked for premium package i.e. not accessible on basic plans which
                have (e.g. ToDoIst)
                
-**I think this will help solve this pain:** Github's Guide on [Start Writing on Github] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#GitHub-flavored-markdown)
+**I think this will help solve this pain:** Github's Guide on [Start Writing on Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#GitHub-flavored-markdown)
  Already using it while writing on this page of github 🌞
+ Utilized these sections already in this para: Styling Texts :smile:, Using Links :smile:, Adding emoji's :smile:
+ 
  
 
  
