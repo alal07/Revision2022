@@ -54,6 +54,7 @@
  - [ ] Code With Alisha - https://www.youtube.com/watch?v=ttznU-BTqTk
  - [ ] Assignement Sheet - Prep4Tech - https://docs.google.com/document/d/10kComgRR1qXwIB_yTOf5cPn-GcllOxyV15OHgFWsL7E/edit
  - [ ] DSA Sheet - Prep4Tech - https://docs.google.com/document/d/1J6f_BzMOBUlNx-ISrJp5mcZVCjqmzj11xUu1xuPrG1s/edit
+ - [ ] codewars.com platform https://www.codewars.com/
  
  Git/Github
  - [ ] Codebasics youtube playlist of 10 videos - https://www.youtube.com/watch?v=xAAmje1H9YM&list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW
@@ -90,6 +91,8 @@ Extras:
 - [ ] Machine Learning in Python - Codebasics youtube channel - https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
 - [ ] AI Expert RoadMap - https://github.com/AMAI-GmbH/AI-Expert-Roadmap
 - [ ] FrontEnd Study Guide - https://github.com/grab/front-end-guide
+- [ ] Prateek API - https://vimeo.com/709993007?from=outro-embed
+- [ ] Prateek API - https://vimeo.com/709993032?from=outro-embed
 - [ ] 
 
 
