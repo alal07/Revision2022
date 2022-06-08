@@ -52,7 +52,8 @@
  - [ ] Curated List of Top 75 LC Qs(https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
  - [ ] LC discussion - Blind 75 Qs https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
  - [ ] Code With Alisha - https://www.youtube.com/watch?v=ttznU-BTqTk
- - [ ] 
+ - [ ] Assignement Sheet - Prep4Tech - https://docs.google.com/document/d/10kComgRR1qXwIB_yTOf5cPn-GcllOxyV15OHgFWsL7E/edit
+ - [ ] DSA Sheet - Prep4Tech - https://docs.google.com/document/d/1J6f_BzMOBUlNx-ISrJp5mcZVCjqmzj11xUu1xuPrG1s/edit
  
  Git/Github
  - [ ] Codebasics youtube playlist of 10 videos - https://www.youtube.com/watch?v=xAAmje1H9YM&list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW
@@ -76,6 +77,7 @@ Common Erors Faced: (to bring from Evernote to here itself and use this going fo
 
 *System Design*
 - [ ] System Design Master Plan - https://github.com/mohsenshafiei/system-design-master-plan
+- [ ] Architecture Patterns - Kislayverma - https://kislayverma.com/software-architecture/architecture-patterns-caching-part-1/
 
 
 
