@@ -60,6 +60,11 @@
  - [ ] CodeAcademy -youtube Channel -  How to Push Code to Github - https://www.youtube.com/watch?v=wrb7Gge9yoE 
  - [ ] About Pull Request - github doc- https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
  - [ ]  to submit solutions here - https://github.com/shresth-sahai/Prepfortech/tree/main/B13
+ 
+ *Github Docs Referred*
+ - [ ]  About Task List - Github Doc used to prepare this list - https://docs.github.com/en/issues/tracking-your-work-with-issues/about-task-lists
+ - [ ]  Emojis Cheat Sheet - https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+ - [ ]  Basic Writing and Formatting syntax- Github Docs - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#GitHub-flavored-markdown
  - [ ]  
 
 Common Erors Faced: (to bring from Evernote to here itself and use this going forward)
@@ -69,6 +74,11 @@ Common Erors Faced: (to bring from Evernote to here itself and use this going fo
 - [ ] Error - HEap Use After Free - https://en.cppreference.com/w/cpp/container/unordered_set/erase
 - [ ] 
 
+*System Design*
+- [ ] System Design Master Plan - https://github.com/mohsenshafiei/system-design-master-plan
+
+
+
 Maths:
 - [ ] Logarithms - Teaching Christine ICSE Class 9th book - https://drive.google.com/file/d/1AkCTXKCWjlips2aaPKVGfqaBQjvxAILr/view
 - [ ] ICSE Class 9 Books - Pdfs of all subjets -Chapterwise - https://www.studiestoday.com/icse-board-books#class9
@@ -76,6 +86,8 @@ Maths:
 - [ ] 
 Extras:
 - [ ] Machine Learning in Python - Codebasics youtube channel - https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
+- [ ] AI Expert RoadMap - https://github.com/AMAI-GmbH/AI-Expert-Roadmap
+- [ ] FrontEnd Study Guide - https://github.com/grab/front-end-guide
 - [ ] 
 
 
