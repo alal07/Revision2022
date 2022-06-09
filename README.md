@@ -41,6 +41,8 @@
  - [ ] list DS HandOn - Get element : https://stackoverflow.com/questions/16747591/how-to-get-an-element-at-specified-index-from-c-list
  - [ ] list DS HandsOn - Delete Last element of List - https://www.geeksforgeeks.org/how-to-delete-last-element-from-a-list-in-c-stl/?ref=lbp
  - [ ] Unorderred Set HAndOn - Erase - https://en.cppreference.com/w/cpp/container/unordered_set/erase
+ - [ ] *Googled: Logical operators in C - good handson site*(implemented in python as ! was accepted when written as 'not') - https://runestone.academy/ns/books/published/thinkcspy/Selection/Logicaloperators.html
+ - [ ] Googled: how to take logical not in python - https://www.geeksforgeeks.org/python-logical-operators-with-examples-improvement-needed/
  - [ ] 
  
  
@@ -61,7 +63,7 @@
  - [ ] SDET-QA Automation Techie youtube video- How to work with Git & Github using Eclipse | Commit | Push | Branching | Pull Request | Merging -https://www.youtube.com/watch?v=HCeBd5GKNO8
  - [ ] CodeAcademy -youtube Channel -  How to Push Code to Github - https://www.youtube.com/watch?v=wrb7Gge9yoE 
  - [ ] About Pull Request - github doc- https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
- - [ ]  to submit solutions here - https://github.com/shresth-sahai/Prepfortech/tree/main/B13
+ 
  
  *Github Docs Referred*
  - [ ]  About Task List - Github Doc used to prepare this list - https://docs.github.com/en/issues/tracking-your-work-with-issues/about-task-lists
@@ -97,6 +99,7 @@ Extras:
 
 
 *DSA Live Class*
-https://study.prepfortech.in/wp-login.php 
+- [ ] To cover class material and take notes -everyday - 2hrs+ 1hr(H.W. problem solving) - https://study.prepfortech.in/wp-login.php 
+- [ ]  to submit solutions here - https://github.com/shresth-sahai/Prepfortech/tree/main/B13
 
 
