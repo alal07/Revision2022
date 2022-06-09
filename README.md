@@ -110,3 +110,19 @@ Extras:
 - [ ] Leetcode previous Questions Revision and submit
 - [ ] to Discuss with Shresta for Interview date and company specifc
 - [ ] to go thru Exponent training recommended by PMG on Slack 
+
+
+
+Financial investment for this preparation:
+- [ ] Leetcode Premium - 29$ -paid 9th June 2022 .. monthly charge  (prev: 05/05/2022	6132552160	LEETCODE.COM, HTTPSLEETCODE, US	2,363.67 Dr., 24-4-2022:see conversion to 6 emi of - 2248inr, i think first subscription done on 5th April 2022)
+- [ ] IdoRecall               (prev;- 07/05/2022	6138252727	PADDLE.NET* IDORECALL, London, GB	708.00 Dr.)
+- [ ] Travel-indigo - 8th April(Knu-Pune: 10528); 11 Apr(Pune-Blr:7223); 26Apr(Blr-Knu:9649) Total: 27400
+- [ ] Prep4Tech- DSA track: some 5K + System Design Track - 11K = 16K. (18 April 2022, and ?)
+- [ ] Self Motivation - Robin Sharma Nation purchase  of 172$ twice
+- [ ] Exponent: Mock INterview - 14K for 1 session 
+- [ ] Exponent yealy subscription - ....
+
+
+
+Organizing Self:
+- [ ] Tasks in Gmail -saved first Google interview guidance mail from Alexson in Jan 2020 as a task- https://support.google.com/tasks/answer/7675772?hl=en&co=GENIE.Platform%3DDesktop
