@@ -22,7 +22,10 @@
  - Recently came to know that writing it down makes it a commitment rather than just one of 100's everyday aspirations that I tend to forget within minutes
  
  
- 
+ Date: 29th May 2022: 
+ - [ ] Leetcode contest Q3. Steps to make array non decreasing
+       - [ ]  Solution2: https://www.youtube.com/watch?v=NQGduRE1Crk.   .. Coding Decoded Youtube channel .. has a telegram group to connect
+       - [ ]  Solition1: for understanding the problem and developing  intution to solve https://www.youtube.com/watch?v=XirZ8GtWxWA.  
 
  Date: 8th June 2022
  ToDo List
