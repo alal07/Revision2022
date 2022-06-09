@@ -103,3 +103,10 @@ Extras:
 - [ ]  to submit solutions here - https://github.com/shresth-sahai/Prepfortech/tree/main/B13
 
 
+
+9th June 2022;
+- [ ] prep4Tech Stack Lectures (June 1, 3,5,6 ) Outline and problems identified.
+- [ ] prep4Tech Stack Lectures June 1,3,5,6 - Do Handon and submit solution to git
+- [ ] Leetcode previous Questions Revision and submit
+- [ ] to Discuss with Shresta for Interview date and company specifc
+- [ ] to go thru Exponent training recommended by PMG on Slack 
