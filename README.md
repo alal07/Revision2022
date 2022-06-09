@@ -122,7 +122,7 @@ Financial investment for this preparation:
 - [ ] IdoRecall               (prev;- 07/05/2022	6138252727	PADDLE.NET* IDORECALL, London, GB	708.00 Dr.)
 - [ ] Travel-indigo - 8th April(Knu-Pune: 10528); 11 Apr(Pune-Blr:7223); 26Apr(Blr-Knu:9649) Total: 27400
 - [ ] Prep4Tech- DSA track: some 5K + System Design Track - 11K = 16K. (18 April 2022, and ?)
-- [ ] Self Motivation - Robin Sharma Nation purchase  of 172$ twice
+- [ ] Self Motivation - Robin Sharma Nation purchase  of 97$ + 97$
 - [ ] Exponent: Mock INterview - 14K for 1 session 
 - [ ] Exponent yealy subscription - ....
 
