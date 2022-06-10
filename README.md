@@ -135,3 +135,8 @@ Financial investment for this preparation:
 
 Organizing Self:
 - [ ] Tasks in Gmail -saved first Google interview guidance mail from Alexson in Jan 2020 as a task- https://support.google.com/tasks/answer/7675772?hl=en&co=GENIE.Platform%3DDesktop
+
+
+10th June 2022
+- [ ] [loop for chars in a string] (https://stackoverflow.com/questions/9438209/for-every-character-in-string)
+- [ ] 
