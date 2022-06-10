@@ -25,8 +25,8 @@
  Date: 29th May 2022: 
  - [ ] Leetcode contest 295 - Q3. Steps to make array non decreasing
  
-       - [ ]  [Solition1: CodingMohan Youtube channel -for understanding the problem and developing  intution to solve] https://www.youtube.com/watch?v=XirZ8GtWxWA
-       - [ ]  [Solution2: Coding Decoded Youtube channel .. has a telegram group to connect]  https://www.youtube.com/watch?v=NQGduRE1Crk
+       - [ ]  [Solition1: CodingMohan Youtube channel -for understanding the problem and developing  intution to solve] (https://www.youtube.com/watch?v=XirZ8GtWxWA)
+       - [ ]  [Solution2: Coding Decoded Youtube channel .. has a telegram group to connect]  (https://www.youtube.com/watch?v=NQGduRE1Crk)
        - [ ]  
 
  Date: 8th June 2022
