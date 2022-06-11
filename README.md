@@ -142,4 +142,8 @@ Organizing Self:
 10th June 2022
 - [ ] loop for chars in a string https://stackoverflow.com/questions/9438209/for-every-character-in-string
 //4 ways: range based for loop (C++11), ...
-- [ ] 
+
+
+11th June 2022
+- [ ] Leetcode solutions - https://haren-lin-1.gitbook.io/leetcode-training/monotonic-stack/496.-next-greater-element-i
+
