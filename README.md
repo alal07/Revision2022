@@ -106,6 +106,8 @@ Extras:
 *DSA Live Class*
 - [ ] To cover class material and take notes -everyday - 2hrs+ 1hr(H.W. problem solving) - https://study.prepfortech.in/wp-login.php 
 - [ ]  to submit solutions here - https://github.com/shresth-sahai/Prepfortech/tree/main/B13
+- [ ]  DSA Must Do Sheet - https://docs.google.com/document/d/1J6f_BzMOBUlNx-ISrJp5mcZVCjqmzj11xUu1xuPrG1s/edit
+- [ ]  Assignment Sheet - https://docs.google.com/document/d/10kComgRR1qXwIB_yTOf5cPn-GcllOxyV15OHgFWsL7E/edit
 
 
 
