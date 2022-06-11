@@ -21,6 +21,10 @@
    Added the emoji of thread: to highlight that when we are preparing for Google Interview.. although we want it to be the only pursuit of our mind but reality is we execute or plan or aspire or imagine or dream.. about more than 1 pursuits and brain has multiple threads working parallely on each of these.. which are spawned on need basis and context switched to something next due to some stimulus in our environment and the environment we are in is not in our full control.. after all we play multiple roles in a day and each role we play has its own set of these triggers(planning, execution, aspirations, expectations, imaginations, dreams, ...success, falures, excitements, disappointments, ...) 👪, 🧑‍🏭, 🐕 🧗‍♀️
  - Recently came to know that writing it down makes it a commitment rather than just one of 100's everyday aspirations that I tend to forget within minutes
  
+ Evernote -Common errors made and corrections during Leetcode programming practice
+ - [ ]  https://www.evernote.com/Home.action?_sourcePage=GXUOOgNNWgXiMUD9T65RG_YvRLZ-1eYO3fqfqRu0fynRL_1nukNa4gH1t86pc1SP&__fp=F3FHUGOTL8w3yWPvuidLz-TPR6I9Jhx8&hpts=1654942644759&showSwitchService=true&usernameImmutable=false&login=&login=Sign+in&login=true&hptsh=daipHx30oQ8HjtNM2ApsAdyarf8%3D#n=23676970-8f60-e0d9-d46f-3a5f33ee8648&s=s424&ses=4&sh=2&sds=5&
+ 
+ 
  
  Date: 29th May 2022: 
  - [ ] Leetcode contest 295 - Q3. Steps to make array non decreasing
