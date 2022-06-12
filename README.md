@@ -152,3 +152,7 @@ Organizing Self:
 - [ ] Leetcode solutions without videos- https://haren-lin-1.gitbook.io/leetcode-training/monotonic-stack/496.-next-greater-element-i
 - [ ] Finding element in an unordered map - https://cplusplus.com/reference/unordered_map/unordered_map/count/
 - [ ] unordered_map vs map in C=+ STL: https://cplusplus.com/reference/unordered_map/unordered_map/count/
+
+12th June 2022
+- [ ] Evernote app on Mac for sketching - https://help.evernote.com/hc/en-us/articles/360001598367-Create-a-sketch-on-Mac-and-Windows
+
