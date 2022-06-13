@@ -156,3 +156,12 @@ Organizing Self:
 12th June 2022
 - [ ] Evernote app on Mac for sketching - https://help.evernote.com/hc/en-us/articles/360001598367-Create-a-sketch-on-Mac-and-Windows
 
+
+
+
+Solved Leetcode Problems for revision: 
+
+13th June2022
+- [ ] 1. Next Greater Elem-i  - https://haren-lin-1.gitbook.io/leetcode-training/monotonic-stack/503.-next-greater-element-ii
+- [ ] 2. Next Greater Elem -11 - https://leetcode.com/problems/next-greater-element-ii/discuss/98270/JavaC%2B%2BPython-Loop-Twice
+          note: this solution uses vector as stack
