@@ -126,21 +126,30 @@ Extras:
 
 Financial investment for this preparation:
 - [ ] Leetcode Premium - 29$ -paid 9th June 2022 .. monthly charge  (prev: 05/05/2022	6132552160	LEETCODE.COM, HTTPSLEETCODE, US	2,363.67 Dr., 24-4-2022:see conversion to 6 emi of - 2248inr, i think first subscription done on 5th April 2022)
-- [ ] IdoRecall               (prev;- 07/05/2022	6138252727	PADDLE.NET* IDORECALL, London, GB	708.00 Dr.)
+- [ ] IdoRecall               (prev;- 07/05/2022	6138252727	PADDLE.NET* IDORECALL, London, GB	708.00 Dr.) 7th June -708inr
 - [ ] Travel-indigo - 8th April(Knu-Pune: 10528); 11 Apr(Pune-Blr:7223); 26Apr(Blr-Knu:9649) Total: 27400
 - [ ] Prep4Tech- DSA track: some 5K + System Design Track - 11K = 16K. (18 April 2022, and ?)
-- [ ] Self Motivation - Robin Sharma Nation purchase  of 97$ + 97$ (equals : 7844.89inr, 7844.89inr)
+- [ ] Robin Sharma Nation - for personal excellence - purchase  of 97$ + 97$ (equals : 7844.89inr, 7844.89inr)
 - [ ] Exponent: Mock INterview - 16,179inr for 1 session (200$) .. 30th May 2022 
 - [ ] Exponent yealy subscription - ....149$ (equals: 12053.86inr)
 - [ ] Google Drive : 130inr Monthly
 - [ ] Youtube Premium: Monthly family plan: 249inr monthly .. 100Hrs AdFree videos
 - [ ] LinkedIn Premium: 
 - [ ] Amazon Prime: 179
+- [ ] Evernote App: Paid subscription .. thinking of //13th June 2022
+- [ ] 
 
+Time Investment for this preparation:
+- [ ] not only mine but mommy and Papa are giving so much support(living at parents place-food, AC, comfortable stay, no work expecated from me, no money)
+- [ ] since resigned and around before that: all free time not enjoyed freely.. travelled with books for google prep.. stayed at a place giving less distraction to study, constantly google on mind..almost 2.5 months of job free days aspiring for Google job.. and still cont..
+- [ ] alternate utilization of these 2.5 months: paint, travel destinations, some app building for self commercial launch, Bansuri vadan perfected.. all these are pushed to be done in future as priority is Google (to work with qualified people - assumption: with such rigotous selection process, good and technially sound people will be part of google so less politics)
+- [ ] lots of Youtube videos on motivation for myself, inspiration .. making self more productive to achieve my goal is stipulated time frame - Jim Kwik.
+- [ ] Shresta's time to hear his story of preparing to reach this level of expertise.
 
 
 Organizing Self:
 - [ ] Tasks in Gmail -saved first Google interview guidance mail from Alexson in Jan 2020 as a task- https://support.google.com/tasks/answer/7675772?hl=en&co=GENIE.Platform%3DDesktop
+- [ ] Evernote app downloaded for sketching on whiteboard -- for teaching Maths. //12th June 2022
 
 
 10th June 2022
