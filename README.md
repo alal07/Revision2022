@@ -175,6 +175,7 @@ Organizing Self:
 - [ ] Anki Help - https://docs.ankiweb.net/editing.html#adding-cards-and-notes 
 - [ ] To see other youtube videos on using Anki effectively for notes taking, flashcard making, revision for retention strategy configuration
 - [ ]  I am Affirmation - 22min - first thing in morning - https://www.youtube.com/watch?v=lNS70QJh4Go
+- [ ]  I am Affirmation - 1hr - before going to sleep - https://www.youtube.com/watch?v=hKqjSiM38uM&t=636s
 
 
 
