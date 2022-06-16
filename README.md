@@ -171,7 +171,10 @@ Organizing Self:
 - [ ] Downloaded Anki app on mac - suggested by Jim Kwik - followed video https://github.com/alal07?tab=repositories
 
 16th June 2022
--[ ] Setting up Anki App and creating Flashcards and studying using Active recall - https://github.com/alal07?tab=repositories
+- [ ] Setting up Anki App and creating Flashcards and studying using Active recall - https://github.com/alal07?tab=repositories
+- [ ] Anki Help - https://docs.ankiweb.net/editing.html#adding-cards-and-notes 
+- [ ] To see other youtube videos on using Anki effectively for notes taking, flashcard making, revision for retention strategy configuration
+- [ ] 
 
 
 
