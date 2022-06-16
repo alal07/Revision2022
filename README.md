@@ -163,7 +163,16 @@ Organizing Self:
 - [ ] unordered_map vs map in C=+ STL: https://cplusplus.com/reference/unordered_map/unordered_map/count/
 
 12th June 2022
-- [ ] Evernote app on Mac for sketching - https://help.evernote.com/hc/en-us/articles/360001598367-Create-a-sketch-on-Mac-and-Windows
+- [ ] Evernote app on Mac for sketching - https://help.evernote.com/hc/en-us/articles/360001598367-Create-a-sketch-on-Mac-and
+
+15th June 2022
+- [ ] Complexity Analysis of Insertion Sort - Algorithms book + Srini Devdas(MIT OCW) - 
+- [ ] To See the newer version of the course in 2 sets(Intro & Advanced)
+- [ ] Downloaded Anki app on mac - suggested by Jim Kwik - followed video https://github.com/alal07?tab=repositories
+
+16th June 2022
+-[ ] Setting up Anki App and creating Flashcards and studying using Active recall - https://github.com/alal07?tab=repositories
+
 
 
 
