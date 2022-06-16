@@ -137,7 +137,7 @@ Financial investment for this preparation:
 - [ ] LinkedIn Premium: 
 - [ ] Amazon Prime: 179
 - [ ] Evernote App: Paid subscription .. thinking of //13th June 2022
-- [ ] 
+- [ ] https://www.udemy.com/ Redis course purchsed for 360INR
 
 Time Investment for this preparation:
 - [ ] not only mine but mommy and Papa are giving so much support(living at parents place-food, AC, comfortable stay, no work expecated from me, no money)
