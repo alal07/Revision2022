@@ -166,7 +166,8 @@ Organizing Self:
 - [ ] Evernote app on Mac for sketching - https://help.evernote.com/hc/en-us/articles/360001598367-Create-a-sketch-on-Mac-and
 
 15th June 2022
-- [ ] Complexity Analysis of Insertion Sort - Algorithms book + Srini Devdas(MIT OCW) - 
+- [ ] Mathemtical Foundation - Algorithms Book - Appendix A
+- [ ] Complexity Analysis of Insertion Sort - Algorithms book + Srini Devdas(MIT OCW) - Book and Paper+Pen
 - [ ] To See the newer version of the course in 2 sets(Intro & Advanced)
 - [ ] Downloaded Anki app on mac - suggested by Jim Kwik - followed video https://github.com/alal07?tab=repositories
 
