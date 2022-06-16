@@ -176,6 +176,7 @@ Organizing Self:
 - [ ] To see other youtube videos on using Anki effectively for notes taking, flashcard making, revision for retention strategy configuration
 - [ ]  I am Affirmation - 22min - first thing in morning - https://www.youtube.com/watch?v=lNS70QJh4Go
 - [ ]  I am Affirmation - 1hr - before going to sleep - https://www.youtube.com/watch?v=hKqjSiM38uM&t=636s
+- [ ]  Confirmed Google interview on 13th July 8:30PM - 9:15PM today morning at 4:30AM
 
 
 
