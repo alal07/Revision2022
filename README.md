@@ -174,7 +174,7 @@ Organizing Self:
 - [ ] Setting up Anki App and creating Flashcards and studying using Active recall - https://github.com/alal07?tab=repositories
 - [ ] Anki Help - https://docs.ankiweb.net/editing.html#adding-cards-and-notes 
 - [ ] To see other youtube videos on using Anki effectively for notes taking, flashcard making, revision for retention strategy configuration
-- [ ] 
+- [ ]  I am Affirmation - 22min - first thing in morning - https://www.youtube.com/watch?v=lNS70QJh4Go
 
 
 
