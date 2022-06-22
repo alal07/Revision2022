@@ -187,6 +187,25 @@ Organizing Self:
 - [ ] 
 
 
+Recent Past Google Questions:  -- looked at interview Questions postings by contestants- 22nd June 2022
+https://leetcode.com/discuss/interview-question/algorithms/1127519/Google-L4-or-Phone-or-Subtree-Weight
+https://leetcode.com/discuss/interview-question/algorithms/1303857/Google-phone-interview-question
+https://leetcode.com/discuss/interview-question/algorithms/1309812/Collect-max-coins-with-a-twist
+https://leetcode.com/discuss/interview-question/algorithms/1361977/Google-or-SDE-2-or-Onsite-or-Shortest-Path-with-twist
+https://leetcode.com/discuss/interview-question/algorithms/1379586/Google-Virtual-Onsite
+https://leetcode.com/discuss/interview-question/algorithms/1545762/Google-or-OA-or-Binary-Tree-String-Search
+https://leetcode.com/discuss/interview-question/algorithms/1566515/GoogleorOnsiteorBusiest-meeting-room
+https://leetcode.com/discuss/interview-question/algorithms/1672049/Google-or-SWE-L3-or-USA
+https://leetcode.com/discuss/interview-question/algorithms/1766413/Find-square-root-with-precision-factor
+https://leetcode.com/discuss/interview-question/algorithms/1916716/Work.Tech-Online-Assessment-Question.
+https://leetcode.com/discuss/interview-question/algorithms/1880977/Meta-or-Phone-or-Sum-Root-to-Leaf
+
+https://leetcode.com/discuss/interview-question/algorithms/2151830/Google-coding-round
+https://leetcode.com/discuss/interview-question/algorithms/2001963/Google
+https://leetcode.com/discuss/interview-question/algorithms/1977561/Amazon-SDE2-Problem-Solving 
+
+
+
 Solved Leetcode Problems for revision: 
 
 13th June2022
