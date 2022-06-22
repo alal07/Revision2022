@@ -181,6 +181,10 @@ Organizing Self:
 
 
 
+22nd June 2022:
+- [ ] string topic- check if a char exists in a string - https://thispointer.com/c-check-if-string-contains-a-character/
+- [ ] C++ course from this pointer : https://thispointer.com/top-online-courses-to-learn-c11-c14-in-2020/
+- [ ] 
 
 
 Solved Leetcode Problems for revision: 
