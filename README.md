@@ -80,7 +80,7 @@
  - [ ]  Basic Writing and Formatting syntax- Github Docs - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#GitHub-flavored-markdown
  - [ ]  
 
-Common Erors Faced: (to bring from Evernote to here itself and use this going forward)
+Common Erors Faced: (to bring from Evernote to here itself and use this going forward) -if time permits
 - [ ] Error - Heap Use AFter Free - https://en.cppreference.com/w/cpp/container/unordered_set/erase
 - [ ] Error - Heap Use AFter Free -faced when erasing an element of set - https://en.cppreference.com/w/cpp/container/unordered_set/erase
 - [ ] Error - Heap Use After Free - https://stackoverflow.com/questions/53558983/asan-heap-use-after-free
@@ -184,7 +184,7 @@ Organizing Self:
 22nd June 2022:
 - [ ] string topic- check if a char exists in a string - https://thispointer.com/c-check-if-string-contains-a-character/
 - [ ] C++ course from this pointer : https://thispointer.com/top-online-courses-to-learn-c11-c14-in-2020/
-- [ ] 
+- [ ] Heard about KMP Algo from Shresta context- leetcode contest Q -and googled -  https://www.google.com/search?q=kmp+algorithm&oq=KMP+&aqs=chrome.1.69i57j0i131i433i512j0i512j0i131i433i512j0i10i512j0i512j0i131i433i512j0i512l3.6631j0j15&sourceid=chrome&ie=UTF-8
 
 
 Recent Past Google Questions:  -- looked at interview Questions postings by contestants- 22nd June 2022
@@ -205,8 +205,18 @@ https://leetcode.com/discuss/interview-question/algorithms/2001963/Google
 https://leetcode.com/discuss/interview-question/algorithms/1977561/Amazon-SDE2-Problem-Solving 
 
 
+23rd June 2022
+- [ ] Tail Recursion - Factorial n - https://www.geeksforgeeks.org/tail-recursion/
+- [ ] Lot of MCQs on every topic under the sun (found on Depriciation for SCM Repo) - https://www.includehelp.com/mcq/depreciation-multiple-choice-questions-mcqs.aspx 
+- [ ] Tail REcursion - Fibonacci n - https://www.geeksforgeeks.org/tail-recursion-fibonacci/
 
-Solved Leetcode Problems for revision: 
+
+
+Gitbooks for Leetcode Solutions:
+- [ ] https://haren-lin-1.gitbook.io/leetcode-training/monotonic-stack/901.-online-stock-span - Self Discovery while solving Monotonic stack problems
+- [ ] https://tenderleo.gitbooks.io/leetcode-solutions-/content/GoogleMedium/280.html - from Shresta
+
+Solved Leetcode Problems for revision: (can be searched on Leetcode using 'status' tag)
 
 13th June2022
 - [ ] 1. Next Greater Elem-i  - https://haren-lin-1.gitbook.io/leetcode-training/monotonic-stack/503.-next-greater-element-ii
