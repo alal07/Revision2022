@@ -225,8 +225,8 @@ Gitbooks for Leetcode Solutions:
 
 
 Doubts:
-- [ ] LC#70. - Climbing stairs 
-- [ ] LC#1137 - https://leetcode.com/problems/n-th-tribonacci-number/
+- [ ] LC#70. - Climbing stairs - how is it working?
+- [ ] LC#1137 - https://leetcode.com/problems/n-th-tribonacci-number/  complexity analysis?
 
 
 Solved Leetcode Problems for revision: (can be searched on Leetcode using 'status' tag)
