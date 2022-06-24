@@ -223,6 +223,12 @@ Gitbooks for Leetcode Solutions:
 - [ ] https://haren-lin-1.gitbook.io/leetcode-training/monotonic-stack/901.-online-stock-span - Self Discovery while solving Monotonic stack problems
 - [ ] https://tenderleo.gitbooks.io/leetcode-solutions-/content/GoogleMedium/280.html - from Shresta
 
+
+Doubts:
+- [ ] LC#70. - Climbing stairs 
+- [ ] LC#1137 - https://leetcode.com/problems/n-th-tribonacci-number/
+
+
 Solved Leetcode Problems for revision: (can be searched on Leetcode using 'status' tag)
 
 13th June2022
