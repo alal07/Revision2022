@@ -97,7 +97,12 @@ Maths:
 - [ ] Logarithms - Teaching Christine ICSE Class 9th book - https://drive.google.com/file/d/1AkCTXKCWjlips2aaPKVGfqaBQjvxAILr/view
 - [ ] ICSE Class 9 Books - Pdfs of all subjets -Chapterwise - https://www.studiestoday.com/icse-board-books#class9
 - [ ] Maths for Programmers Tutorial - Full Course on Sets and Logic - https://www.youtube.com/watch?v=2SpuBqvNjHI
-- [ ] 
+- [ ] L#50- Pow(x,n)-- Exxponentiation by Squaring method on Wikipedia- https://en.wikipedia.org/wiki/Exponentiation_by_squaring
+- [ ]         - Has a "Talk" linked to the topic: https://en.wikipedia.org/wiki/Talk:Exponentiation_by_squaring#Least_significant_bit_is_first
+- [ ]         - Wiki Project Mathematics - https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics#Project_background_and_scope
+
+
+
 Extras:
 - [ ] Machine Learning in Python - Codebasics youtube channel - https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
 - [ ] AI Expert RoadMap - https://github.com/AMAI-GmbH/AI-Expert-Roadmap
