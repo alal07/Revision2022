@@ -224,6 +224,7 @@ https://leetcode.com/discuss/interview-question/algorithms/1977561/Amazon-SDE2-P
 - [ ] Studying Redis - Udemy course today.. seems intersting  as it uses basic data structures and saves in memory .. almost like C programming !!
 - [ ] Looking for how to add cards to Anki app - https://www.youtube.com/watch?v=K6C9TpEq2lA
 - [ ] Anki Help: https://docs.ankiweb.net/editing.html#adding-cards-and-notes
+- [ ] Anki - Adding Image occlusion card- https://www.youtube.com/watch?v=QeL4z2cZOIU&t=723s
 - [ ] 
 - [ ] 
 
