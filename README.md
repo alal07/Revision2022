@@ -219,6 +219,14 @@ https://leetcode.com/discuss/interview-question/algorithms/1977561/Amazon-SDE2-P
 - [ ] Tail recursion? - Tribonacci n - https://www.geeksforgeeks.org/tribonacci-numbers/.  .. tail recursive sol by me is not working???
 
 
+25th June 2022
+- [ ] made TGM Academy board by painting
+- [ ] Studying Redis - Udemy course today.. seems intersting  as it uses basic data structures and saves in memory .. almost like C programming !!
+- [ ] Looking for how to add cards to Anki app - https://www.youtube.com/watch?v=K6C9TpEq2lA
+- [ ] Anki Help: https://docs.ankiweb.net/editing.html#adding-cards-and-notes
+- [ ] 
+- [ ] 
+
 Gitbooks for Leetcode Solutions:
 - [ ] https://haren-lin-1.gitbook.io/leetcode-training/monotonic-stack/901.-online-stock-span - Self Discovery while solving Monotonic stack problems
 - [ ] https://tenderleo.gitbooks.io/leetcode-solutions-/content/GoogleMedium/280.html - from Shresta
