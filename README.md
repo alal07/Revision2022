@@ -226,6 +226,10 @@ https://leetcode.com/discuss/interview-question/algorithms/1977561/Amazon-SDE2-P
 - [ ] Anki Help: https://docs.ankiweb.net/editing.html#adding-cards-and-notes
 - [ ] Anki - Adding Image occlusion card- https://www.youtube.com/watch?v=QeL4z2cZOIU&t=723s
 - [ ] 
+
+26th June 2022
+- [ ] Going Thru Redis Course From Udemy with multiple objectives: System Design Concepts, Make one Application, Use of simpel data structures in Redis db - to see how this feature is implemented -: https://www.udemy.com/course/redis-the-complete-developers-guide-p/learn/lecture/32529076#overview
+- [ ] Downloaded an IDE - for Redis eCommerce App Files exxploration -  https://www.sublimetext.com/download_thanks?target=mac
 - [ ] 
 
 Gitbooks for Leetcode Solutions:
