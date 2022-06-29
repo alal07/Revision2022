@@ -230,7 +230,34 @@ https://leetcode.com/discuss/interview-question/algorithms/1977561/Amazon-SDE2-P
 26th June 2022
 - [ ] Going Thru Redis Course From Udemy with multiple objectives: System Design Concepts, Make one Application, Use of simpel data structures in Redis db - to see how this feature is implemented -: https://www.udemy.com/course/redis-the-complete-developers-guide-p/learn/lecture/32529076#overview
 - [ ] Downloaded an IDE - for Redis eCommerce App Files exxploration -  https://www.sublimetext.com/download_thanks?target=mac
-- [ ] 
+- [ ] Reminded Shresta to share DP recordings from B12 over Whatsapp
+
+27th June 2022
+- [ ] - Got Prep4tech B12 entire course recordings - awesome sessions by Pratik
+- [ ] - Started DP topic from B12 recordings... example in Python
+- [ ] - revising and taking notes on python
+- [ ] - Plan for the Day: Do 6 sums (from past google qs on DP topic or 1 from each of 6 topics:  Recursion, Graphs, DP, Bitwise, Binary search, Binary tree - when stuck -book Doubt session with Shresta - rather than searchign by self for whole day on youtube and net and gettign distracted -- drop in productivity and loss of focus and direction
+- [ ] Time now is 1:25 will start pomodore timer at 1:30 with aim to do 2 sessions of 25-5. till 2:30 Then do 2 sums from 2:30 to 3:30
+- [ ] **2 sessions of Theory** followed by **2 sessions of Problem Solving** taking 2 hours - 3 such sessions will mean:
+- [ ] 3hrs= ***6 theory + 6 practicals + 6 breaks***(Breaks: shld be most productive - Queued few videos for break in youtube less than 10mins)
+- [ ] On 1st July, will talk to Harshita about higher level ...***Or shoudl talk before itself***???
+- [ ] mock Interview preparation
+
+
+28th June 2022
+
+
+29th June 2022
+
+
+30th June 2022
+
+
+
+Python googlies: 
+- [ ] to make anki cards for review on the go
+- Print statement. - https://www.geeksforgeeks.org/python-output-using-print-function/
+- 
 
 Gitbooks for Leetcode Solutions:
 - [ ] https://haren-lin-1.gitbook.io/leetcode-training/monotonic-stack/901.-online-stock-span - Self Discovery while solving Monotonic stack problems
