@@ -253,6 +253,10 @@ https://leetcode.com/discuss/interview-question/algorithms/1977561/Amazon-SDE2-P
 30th June 2022
 
 
+After SCM exam#2:
+5th July 2022:
+
+
 
 Python googlies: 
 - [ ] to make anki cards for review on the go
