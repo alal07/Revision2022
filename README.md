@@ -272,7 +272,9 @@ After SCM exam#2:
               #Link: https://classroom.udacity.com/nanodegrees/nd065-aws/dashboard/overview  To Do as a revision- commitment- 3-5 hours per week
               
 - [ ] To build a Time Table for Google prep till July End.(3 weeks duration exactly)
-- [ ] 
+- [ ]  Bought another Udemy course on 'Google Cloud Associate Engineer certification preparation'
+- [ ]  udemy takes UPI payment via Adyen - 'Powered by Adyen' appears on page .. 
+- [ ]  Mobile App exercise:           to explore buildign an app for taking 'Online Payment' and 'login via OTP'
               
 
 
