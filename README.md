@@ -255,6 +255,26 @@ https://leetcode.com/discuss/interview-question/algorithms/1977561/Amazon-SDE2-P
 
 After SCM exam#2:
 5th July 2022:
+- [ ] Cancelled 13th July interview with Google
+- [ ] Got links for System Design for L6 from Harshita
+- [ ] Harshita- Prepare time table and Do 150-180 questions minimum of 'medium' and 'hard' questions. Easy ones do not count.
+- [ ] Attended Savanta Analytics First round with HR Mirza Baig for Head of Technology
+
+6th July 2022:
+- [ ] Enrolled to Udacity's 'AWS Machine Learning Foundations Applications' 
+                Udacity Enrollment Gateway
+            Enroll into AWS DeepRacer AWS Machine Learning Foundations
+              You're currently logged in as:
+              Name
+              Anupama Lal
+              Email
+              anupama07.lal@gmail.com
+              #Link: https://classroom.udacity.com/nanodegrees/nd065-aws/dashboard/overview  To Do as a revision- commitment- 3-5 hours per week
+              
+- [ ] To build a Time Table for Google prep till July End.(3 weeks duration exactly)
+- [ ] 
+              
+
 
 
 
