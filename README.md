@@ -276,8 +276,22 @@ After SCM exam#2:
               #Link: https://www.udemy.com/course/google-cloud-associate-cloud-engineer-certification-course/learn/lecture/30471014#overview
 - [ ]  udemy takes UPI payment via Adyen - 'Powered by Adyen' appears on page .. 
 - [ ]  Mobile App exercise:           to explore buildign an app for taking 'Online Payment' and 'login via OTP'
-              
+- [ ]  Registerred for a webinar: Rising Cybercrime in Asia 
+          Time
+                  Jul 14, 2022 07:00 PM in India
 
+          Add to calendar
+          Webinar ID
+          968 7173 5959
+          Webinar logo
+          To Join the Webinar
+          Join from a PC, Mac, iPad, iPhone or Android device:
+
+          Please click this URL to join. https://eruditus.zoom.us/w/96871735959?        tk=eEY4FhpgbnSO3AKKTHnwLmVnV1J9FubADmto0F0vADM.DQMAAAAWjgFilxZkZTBTUTZiWVFIU2htUklVUFlqc0xBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=SXFTOFBsRWwreGtWc1N0VFpkZkVEQT09&uuid=WN_MclyV8H3R3m_pzDTUtBOjQ
+              
+ - [ ] Leetcode auto Payment failed: redo
+ - [ ] credit card: Rs. 16760: 8th July 2022.  payback team no 18602585000, your mobile no: till 31st March your points you can get details from them
+ - [ ]  
 
 
 
