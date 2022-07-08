@@ -295,6 +295,7 @@ After SCM exam#2:
 
 
 7th July 2022:
+
 -maintained 'What I learnt today' Google Doc
 -Started Solving Google Past Questions- Tag=Dynamkic Programming - Not able to get the intution to solve any 'hard' problem!!
 --Started going through FreeCodeCamp.org 5hr long Dynamic Prog youtube vid:
@@ -310,6 +311,7 @@ After SCM exam#2:
   - Anki card summarizing high level structure of 5hr vid  
    
   8th July 2022- Fri:
+  
   -Summarized 7th july night exxplorations of DP while watching FreeCodeCamp 5hr vid
   -
     
