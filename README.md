@@ -306,6 +306,12 @@ After SCM exam#2:
           https://www.log2base2.com/algorithms/dynamic-programming/dynamic-programming.html
     - DP - MIT Lecture - Chap 18: http://courses.csail.mit.edu/6.006/fall09/lecture_notes/lecture18.pdf. - one example problem to be solved
     - DP - Gitbook Solutions- dP uses DS: unorderred map : with key as N, and value as the corresponding Nth fibonacci no 
+    - DP - Educative solutions  -- using Python and its DSs
+  - Anki card summarizing high level structure of 5hr vid  
+   
+  8th July 2022- Fri:
+  -Summarized 7th july night exxplorations of DP while watching FreeCodeCamp 5hr vid
+  -
     
 
 
