@@ -312,7 +312,7 @@ After SCM exam#2:
    
   8th July 2022- Fri:
   
-  -Summarized 7th july night exxplorations of DP while watching FreeCodeCamp 5hr vid
+  - [ ] Summarized 7th july night exxplorations of DP while watching FreeCodeCamp 5hr vid
   -
     
 
