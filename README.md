@@ -316,6 +316,20 @@ After SCM exam#2:
   -
     
 
+#Week1 (1st -7th) July 2022 Achievements:Google Interview Context
+
+
+#Week2 (8th - 14th) July 2022 Achievements: Google Interview context
+
+
+#Week3 (15th - 21st) July 2022 Achievements: Google Interview Context
+
+
+#Week4 (22nd - 28th) July 2022 Achievements: Google Interview Contexxt
+
+
+
+
 
 
 Python googlies: 
