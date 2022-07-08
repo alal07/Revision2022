@@ -294,6 +294,21 @@ After SCM exam#2:
  - [ ]  
 
 
+7th July 2022:
+-maintained 'What I learnt today' Google Doc
+-Started Solving Google Past Questions- Tag=Dynamkic Programming - Not able to get the intution to solve any 'hard' problem!!
+--Started going through FreeCodeCamp.org 5hr long Dynamic Prog youtube vid:
+--- [ ] Fibonacci No: More resources
+    - Leetcode's own solution on problem page for LC#509.  - shows one log(n) solution using Maths technique --Interesting - to be explored
+    - DP solution using Memoization: uses DS:Vector of same size as N (where we are implementing algo to find the Nth fibonacci no)
+          https://www.journaldev.com/58606/fibonacci-series-using-dynamic-programming-cpp
+    - DP Solution using Memoization: uses DS: Plain C array of same size as N, where we are finding Nth fibonacci no.
+          https://www.log2base2.com/algorithms/dynamic-programming/dynamic-programming.html
+    - DP - MIT Lecture - Chap 18: http://courses.csail.mit.edu/6.006/fall09/lecture_notes/lecture18.pdf. - one example problem to be solved
+    - DP - Gitbook Solutions- dP uses DS: unorderred map : with key as N, and value as the corresponding Nth fibonacci no 
+    
+
+
 
 Python googlies: 
 - [ ] to make anki cards for review on the go
