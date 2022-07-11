@@ -320,7 +320,10 @@ After SCM exam#2:
 
 
 #Week2 (8th - 14th) July 2022 Achievements: Google Interview context
-
+- [ ] Topic wise Qs - to do as fast as I can 
+- [ ]           - 11th - thinkign of switching language choice to Python- Depends on how I progress with revision of Python DS today. CV interview on 13th
+- [ ] System Design one problem video analysis everyday
+- [ ] Exponent - PM Interview go through
 
 #Week3 (15th - 21st) July 2022 Achievements: Google Interview Context
 
@@ -335,7 +338,14 @@ After SCM exam#2:
 Python googlies: 
 - [ ] to make anki cards for review on the go
 - Print statement. - https://www.geeksforgeeks.org/python-output-using-print-function/
-- 
+
+
+Python Revision: -- tired of typing C++ vector and other datatypes syntaxes, right wrist is aching since more thana week now due to online teaching with a digital pen
+11th July: Arrays:
+
+
+
+
 
 Gitbooks for Leetcode Solutions:
 - [ ] https://haren-lin-1.gitbook.io/leetcode-training/monotonic-stack/901.-online-stock-span - Self Discovery while solving Monotonic stack problems
@@ -353,3 +363,10 @@ Solved Leetcode Problems for revision: (can be searched on Leetcode using 'statu
 - [ ] 1. Next Greater Elem-i  - https://haren-lin-1.gitbook.io/leetcode-training/monotonic-stack/503.-next-greater-element-ii
 - [ ] 2. Next Greater Elem -11 - https://leetcode.com/problems/next-greater-element-ii/discuss/98270/JavaC%2B%2BPython-Loop-Twice
           note: this solution uses vector as stack
+
+
+-Computer Vision JObs & JDs:
+- [ ] https://www.naukri.com/job-listings-computer-vision-architect-cyient-limited-bangalore-bengaluru-10-to-15-years-220622000973?src=simjobsjd_rt
+- [ ] https://www.naukri.com/job-listings-computer-vision-research-architect-valeo-india-pvt-ltd-chennai-15-to-20-years-150622502081?src=seo_srp&sid=16575154436214707&xp=12&px=1
+- [ ] https://www.naukri.com/job-listings-embedded-computer-vision-software-engineer-valeo-india-pvt-ltd-chennai-2-to-5-years-040722502055?src=seo_srp&sid=16575154436214707&xp=7&px=1
+- [ ] https://www.naukri.com/valeo-jobs-in-chennai
