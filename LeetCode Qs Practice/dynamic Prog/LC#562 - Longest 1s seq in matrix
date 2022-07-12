@@ -1,0 +1,43 @@
+LC#562:  https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/
+
+class Solution {
+public:
+    int longestLine(vector<vector<int>>& mat) {
+        if(mat.size() ==0) return 0;
+        
+        int m=mat.size();
+        int n=mat[0].size();
+        int ans=0;
+        
+        //int dp[m][n][4];//={{0,0,0,0}}; //4 storied height on m by n base, index 0 for horizontal   
+            //count, index 1 for Vertical, index 2 for Diagonal, index 4 for antidia
+        
+        vector<vector<vector<int>>> dp(m, vector<vector<int>>(n, vector<int>(4)));
+        //traverse 2D input matrix, and if found 1 at any coordinate, 
+        //update all four direction one counts for that coordinate 
+        //i.e dp[i][j][0], dp[i][j][1], dp[i][j][2], dp[i][j][3]
+        for(int i=0; i<m;i++)
+        {
+            for(int j=0;j<n;j++)
+            {
+                if(mat[i][j]==1)
+                {
+                    dp[i][j][0]= j>0? dp[i][j-1][0]+1:1;
+                    dp[i][j][1]= i>0? dp[i-1][j][1]+1:1;
+                    dp[i][j][2]= (i>0 && j>0)? dp[i-1][j-1][2]+1:1;
+                    dp[i][j][3]= (i>0 && j<n-1)? dp[i-1][j+1][3]+1:1; //note: last index is n-1
+                    
+                    
+                    //calc running max so far
+                      ans=max({ans, dp[i][j][0], dp[i][j][1], dp[i][j][2], dp[i][j][3]});
+                }
+            }
+        }//traversal over
+        
+      
+        
+        return ans;
+        
+        
+    }
+};
