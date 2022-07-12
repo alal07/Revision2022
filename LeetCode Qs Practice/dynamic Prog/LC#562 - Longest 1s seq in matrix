@@ -1,4 +1,6 @@
-LC#562:  https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/
+#LC#562:  https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/
+#Medium
+#12th July 2022
 
 class Solution {
 public:
