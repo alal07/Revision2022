@@ -331,6 +331,20 @@ After SCM exam#2:
 #Week4 (22nd - 28th) July 2022 Achievements: Google Interview Contexxt
 
 
+--discontinued as moved to Banaglore and got busy insettling down in new flat ---
+### Resuming ###
+Nov 2022:
+=========
+1st Nov: LC#96
+      in discussion:awesome streak and badge:   https://leetcode.com/archit91/
+    
+2nd Nov:
+3rd Nov:
+4th Nov:
+5th nov:
+6th Nov:
+7th Nov:
+
 
 
 
