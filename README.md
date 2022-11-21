@@ -345,6 +345,9 @@ Nov 2022:
 6th Nov:
 7th Nov:
 
+21st Nov: VEctor initialization in C++: https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/
+
+
 
 
 
