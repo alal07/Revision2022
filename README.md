@@ -349,7 +349,7 @@ Nov 2022:
 22nd Nov?
 23rd nov?
 
-'''diff
+```diff
 Today
 24th Nov: Context LC#1302: Deepest Leaves sum (looked at 2 solutions in Discussion for C++ as Leetcode has given Java sol, one by archit91 and other by lee215 .. just copied and ran to validate correctness .. pending: to DIY)
             -found statement:   queue<TreeNode *> q; 
