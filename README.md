@@ -349,7 +349,8 @@ Nov 2022:
 22nd Nov?
 23rd nov?
 
-`rgb(0,80,0)` Today
+'''diff
+Today
 24th Nov: Context LC#1302: Deepest Leaves sum (looked at 2 solutions in Discussion for C++ as Leetcode has given Java sol, one by archit91 and other by lee215 .. just copied and ran to validate correctness .. pending: to DIY)
             -found statement:   queue<TreeNode *> q; 
             => Qs triggerred in mind: 
@@ -375,7 +376,7 @@ Nov 2022:
             Q4: not usage in loop condition: (i.e. negation binary arithmetic operator used, as !)
             stumbled upon Exeter University link: https://newton.ex.ac.uk/teaching/resources/jmr/loops.html   (does not address my Q but interesting)
             
-            
+ ```           
 
 
 
