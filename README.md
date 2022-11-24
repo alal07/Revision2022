@@ -346,6 +346,27 @@ Nov 2022:
 7th Nov:
 
 21st Nov: VEctor initialization in C++: https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/
+22nd Nov?
+23rd nov?
+24th Nov: Context LC#1302: Deepest Leaves sum
+            -found statement:   queue<TreeNode *> q; 
+            => Qs triggerred in mind: 
+              Q1: is there a inbuilt DS in C++ called queue!!!!
+            https://www.programiz.com/cpp-programming/queue#:~:text=In%20C%2B%2B%2C%20the%20STL,first%20will%20be%20removed%20first.&text=To%20learn%20more%20about%20queues%2C%20visit%20Queue%20Data%20Structure.
+
+            https://www.programiz.com/dsa/queue
+            
+            Q2:
+            Noticing solutions in Discussion tab: solution using DFS is in recursive manner but Solution using BFS is iterative using queue.
+            googled:  can you do bfs recursively (this came up while typing search text so chose it, looks like others have already ponderred on it)
+            
+              https://www.cs.cornell.edu/courses/JavaAndDS/dfs/dfs01.html#:~:text=Iterative%20BFS&text=While%20one%20can%20write%20BFS,one%20does%20it%2C%20practically%20speaking.
+              
+              https://stackoverflow.com/questions/2549541/performing-breadth-first-search-recursively     .. good discussion on this topic
+              
+              
+            W1: want to revise Tail recursion video by ...
+            
 
 
 
