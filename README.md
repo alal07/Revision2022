@@ -348,7 +348,9 @@ Nov 2022:
 21st Nov: VEctor initialization in C++: https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/
 22nd Nov?
 23rd nov?
-24th Nov: Context LC#1302: Deepest Leaves sum
+
+`rgb(0,80,0)` Today
+24th Nov: Context LC#1302: Deepest Leaves sum (looked at 2 solutions in Discussion for C++ as Leetcode has given Java sol, one by archit91 and other by lee215 .. just copied and ran to validate correctness .. pending: to DIY)
             -found statement:   queue<TreeNode *> q; 
             => Qs triggerred in mind: 
               Q1: is there a inbuilt DS in C++ called queue!!!!
@@ -365,9 +367,15 @@ Nov 2022:
               https://stackoverflow.com/questions/2549541/performing-breadth-first-search-recursively     .. good discussion on this topic
               
               
-            W1: want to revise Tail recursion video by ...
+            W1(Wish One): want to revise Tail recursion video by ...
             
-
+            Q3: For vs while loop
+            https://techdifferences.com/differenece-between-for-and-while-loop.html
+            
+            Q4: not usage in loop condition: (i.e. negation binary arithmetic operator used, as !)
+            stumbled upon Exeter University link: https://newton.ex.ac.uk/teaching/resources/jmr/loops.html   (does not address my Q but interesting)
+            
+            
 
 
 
